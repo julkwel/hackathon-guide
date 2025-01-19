@@ -50,17 +50,26 @@ En tant que membre du jury, vous devrez évaluer :
 - S'ils ne sont pas hors sujet.
   - Respect du thème et des objectifs du hackathon.
   - Alignement du projet avec les attentes de l'événement.
+- **Scalabilité** : Le projet peut-il croître facilement en taille et en portée ?
+  - Adaptabilité à une croissance rapide.
+  - Capacité à gérer un grand nombre d’utilisateurs ou de données.
+- **Interopérabilité** : Le projet peut-il interagir avec d’autres systèmes ou plateformes ?
+  - Facilité d'intégration avec des outils ou plateformes externes.
+  - Compatibilité avec différents systèmes ou protocoles.
 
 **Barème d'évaluation :**
 
 | Critère                     | Points Max |
 |-----------------------------|------------|
-| Originalité du projet        | 20         |
-| Travail d'équipe             | 15         |
-| Design et présentation       | 15         |
-| Technologies utilisées       | 20         |
-| Créativité                   | 20         |
+| Originalité du projet        | 15         |
+| Travail d'équipe             | 10         |
+| Design et présentation       | 10         |
+| Technologies utilisées       | 15         |
+| Créativité                   | 15         |
 | Pertinence du sujet          | 10         |
+| Impact                       | 10         |
+| Scalabilité                  | 10         |
+| Interopérabilité             | 10         |
 | **Total**                    | **100**    |
 
 ---
@@ -113,17 +122,26 @@ As a jury member, you should evaluate:
 - Whether they are on topic.
   - Adherence to the theme and hackathon goals.
   - Alignment with the event's expectations.
+- **Scalability**: Can the project easily grow in size and scope?
+  - Ability to scale rapidly.
+  - Capability to handle a large number of users or data.
+- **Interoperability**: Can the project interact with other systems or platforms?
+  - Ease of integration with external tools or platforms.
+  - Compatibility with different systems or protocols.
 
 **Evaluation Scale:**
 
 | Criteria                     | Max Points |
 |------------------------------|------------|
-| Originality of the project    | 20         |
-| Teamwork                      | 15         |
-| Design and presentation       | 15         |
-| Technologies used             | 20         |
-| Creativity                    | 20         |
+| Originality of the project    | 15         |
+| Teamwork                      | 10         |
+| Design and presentation       | 10         |
+| Technologies used             | 15         |
+| Creativity                    | 15         |
 | Relevance to the topic        | 10         |
+| Impact                        | 10         |
+| Scalability                   | 10         |
+| Interoperability              | 10         |
 | **Total**                     | **100**    |
 
 *Happy coding ! 💙*
